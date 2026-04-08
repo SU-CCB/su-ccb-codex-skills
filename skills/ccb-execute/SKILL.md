@@ -1,6 +1,9 @@
 ---
 name: ccb-execute
-description: 按 CCB 协议读取 spec、执行实现/勘探/协商、完成验证并输出精简回执或协商回复。
+description: >
+  Execute CCB implementation, explore, or consult tasks from Claude based on spec/docs,
+  validate the result, and return a compact receipt.
+  Use when Claude sends a CCB task with execute/explore/consult mode.
 metadata:
   short-description: CCB 执行、协商与回执
 ---

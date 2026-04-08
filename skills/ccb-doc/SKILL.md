@@ -1,6 +1,8 @@
 ---
 name: ccb-doc
-description: 根据 Claude 的文档决策补写详细文档、维护目录索引，并按项目分类规则落位到 docs 目录。
+description: >
+  Create or update project documentation and indexes according to CCB document routing rules.
+  Use when Claude asks to write docs, maintain catalog/index files, or archive implementation details.
 metadata:
   short-description: CCB 文档维护
 ---

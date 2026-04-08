@@ -10,6 +10,7 @@
 # 方式 1：通过 skill-installer（推荐）
 $skill-installer install https://github.com/SU-CCB/su-ccb-codex-skills/tree/main/skills/ccb-execute
 $skill-installer install https://github.com/SU-CCB/su-ccb-codex-skills/tree/main/skills/ccb-doc
+# 安装后重启 Codex 生效
 
 # 方式 2：手动安装
 git clone https://github.com/SU-CCB/su-ccb-codex-skills.git
